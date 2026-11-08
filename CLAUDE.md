@@ -15,7 +15,7 @@
 
 ### Issue tracker
 
-Issues and PRDs live in GitHub Issues for `dotoricode/forma`. See
+Issues and PRDs live in GitHub Issues for `dotoridot/forma`. See
 `docs/agents/issue-tracker.md`.
 
 ### Triage labels

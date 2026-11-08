@@ -1,7 +1,7 @@
 # Issue tracker: GitHub
 
 Issues and PRDs for this repository live in GitHub Issues for
-`dotoricode/forma`. Use the `gh` CLI for issue operations.
+`dotoridot/forma`. Use the `gh` CLI for issue operations.
 
 ## Conventions
 

@@ -82,8 +82,8 @@
       "title": "저장소를 받고 의존성을 설치한다",
       "instruction": "Forma는 아직 npm에 배포되지 않았다. 저장소를 받아서 로컬에서 쓴다.",
       "commands": [
-        { "shell": "git clone https://github.com/dotoricode/forma.git\ncd forma\npnpm install", "runIn": "터미널", "environments": ["unix"] },
-        { "shell": "git clone https://github.com/dotoricode/forma.git; cd forma; pnpm install", "runIn": "PowerShell", "environments": ["win"] }
+        { "shell": "git clone https://github.com/dotoridot/forma.git\ncd forma\npnpm install", "runIn": "터미널", "environments": ["unix"] },
+        { "shell": "git clone https://github.com/dotoridot/forma.git; cd forma; pnpm install", "runIn": "PowerShell", "environments": ["win"] }
       ],
       "expectedResult": "node_modules/ 가 생기고 설치 오류가 없다.",
       "onFailure": "pnpm이 없으면 corepack enable 을 먼저 실행한다."
